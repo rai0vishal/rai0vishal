@@ -163,10 +163,10 @@ A cross-platform mobile fitness tracking app built with React Native — workout
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=rai0vishal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="Vishal's GitHub Stats" />
+      <img src="https://github-readme-stats-salesp07.vercel.app/api?username=rai0vishal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true" alt="Vishal's GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rai0vishal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+      <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rai0vishal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
     </td>
   </tr>
 </table>
