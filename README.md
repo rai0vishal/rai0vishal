@@ -160,11 +160,18 @@ A cross-platform mobile fitness tracking app built with React Native — workout
 
 <div align="center">
 
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rai0vishal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=rai0vishal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="Vishal's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rai0vishal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rai0vishal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rai0vishal&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6E6E&currStreakLabel=58A6FF)
+<img src="https://streak-stats.demolab.com?user=rai0vishal&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6E6E&currStreakLabel=58A6FF" alt="GitHub Streak" />
 
 </div>
 
