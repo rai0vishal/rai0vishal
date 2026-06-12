@@ -142,7 +142,7 @@ A cross-platform mobile fitness tracking app built with React Native — workout
 
 ### 💳 [Credilio](https://github.com/rai0vishal/Credilio) — Financial Platform
 
-> *JavaScript · Node.js · MongoDB*
+> *Python · Node.js · Postgres*
 
 - Full-featured financial services platform interface with user flows and API integration
 - 📁 **Repo:** [github.com/rai0vishal/Credilio](https://github.com/rai0vishal/Credilio)
