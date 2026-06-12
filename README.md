@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a MERN Stack Developer who loves building full-stack web applications with real-world utility — from collaborative task managers to browser-based design tools. I care about clean architecture, smooth UX, and shipping things that actually work in production.
+I'm a MERN Stack Developer who loves building full-stack web applications with real-world utility — from real-time collaborative task managers to AI-powered skill exchange ecosystems. I care about clean architecture, smooth UX, and shipping things that actually work in production.
 
 - 🔭 Currently building: improving **TaskFlow** with CI/CD, tests, and new features
 - 🌱 Learning: System Design, TypeScript, Next.js
@@ -49,8 +49,11 @@ I'm a MERN Stack Developer who loves building full-stack web applications with r
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
 **Databases**
 
@@ -91,21 +94,24 @@ A production-grade collaborative task management application with a fully decoup
 
 ---
 
-### 🧠 [SKillX](https://s-kill-x.vercel.app/) — Skill Exchange & Development Platform
+### 🧠 [SKillX](https://s-kill-x.vercel.app/) — AI-Powered Peer-to-Peer Skill Exchange Ecosystem
 
-> *MERN · React · Node.js · MongoDB · Express · JWT · Tailwind CSS*
+> *React · Node.js · Express · MongoDB · Socket.IO · WebRTC · Gemini AI · Firebase · Tailwind CSS*
 
-A full-stack skill exchange platform where users can list skills they offer, discover skills they want to learn, and connect with others to swap knowledge — built with a clean, production-ready MERN architecture.
+A production-grade, AI-powered collaborative platform where developers trade skills, collaborate on gigs in real time, and grow through AI-driven learning roadmaps — built with a scalable, event-driven MERN architecture.
 
 - 🔴 **Live:** [s-kill-x.vercel.app](https://s-kill-x.vercel.app/)
 - 📁 **Repo:** [github.com/rai0vishal/SKillX](https://github.com/rai0vishal/SKillX)
 
 **Highlights:**
-- Full **user authentication** with JWT — secure signup, login, and protected routes
-- **Skill listing & discovery** — users can post skills they offer and browse skills available for exchange
-- **User profiles** with skill portfolios, progress tracking, and activity dashboards
-- RESTful API backend with Express and MongoDB — clean separation of concerns across routes, controllers, and models
-- Responsive UI built with React and Tailwind CSS — optimized for both desktop and mobile
+- **AI Skill Matching Algorithm** — weighted intersection engine scores peer compatibility in real-time based on skills offered vs. wanted, trust score, and activity
+- **WebRTC Video Sessions** — custom signaling server via Socket.IO handles ICE candidate exchange, SDP offer/answer negotiation, and media stream tracking for dependency-free 1:1 video collaboration
+- **Gemini AI Integration** — parses user tech stack and career goals into structured JSON, rendered as an interactive step-by-step learning roadmap tree
+- **Context-aware Chat System** — every conversation carries a `GIG | EXCHANGE` context payload, ensuring strict separation between concurrent gig and skill-barter threads
+- **Smart Scheduling Engine** — timezone-aware availability matrix with UTC normalization, conflict detection to prevent double-booking, and real-time session countdown
+- **RBAC with Firebase Auth** — JWT middleware inspects token role claims; admin endpoints (`/api/admin/analytics`, user moderation) reject unauthorized access with 403
+- **Gig Marketplace** — post, browse, and collaborate on real projects with AI-enhanced gig descriptions via Gemini prompt engineering
+- **Performance** — `useMemo`/`useCallback` on WebRTC/Socket components, lazy-loaded video session routes, debounced search, paginated feeds, and compound MongoDB indexes on skill fields for sub-millisecond queries
 
 ---
 
