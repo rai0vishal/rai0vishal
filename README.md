@@ -91,6 +91,24 @@ A production-grade collaborative task management application with a fully decoup
 
 ---
 
+### 🧠 [SKillX](https://s-kill-x.vercel.app/) — Skill Exchange & Development Platform
+
+> *MERN · React · Node.js · MongoDB · Express · JWT · Tailwind CSS*
+
+A full-stack skill exchange platform where users can list skills they offer, discover skills they want to learn, and connect with others to swap knowledge — built with a clean, production-ready MERN architecture.
+
+- 🔴 **Live:** [s-kill-x.vercel.app](https://s-kill-x.vercel.app/)
+- 📁 **Repo:** [github.com/rai0vishal/SKillX](https://github.com/rai0vishal/SKillX)
+
+**Highlights:**
+- Full **user authentication** with JWT — secure signup, login, and protected routes
+- **Skill listing & discovery** — users can post skills they offer and browse skills available for exchange
+- **User profiles** with skill portfolios, progress tracking, and activity dashboards
+- RESTful API backend with Express and MongoDB — clean separation of concerns across routes, controllers, and models
+- Responsive UI built with React and Tailwind CSS — optimized for both desktop and mobile
+
+---
+
 ### 🎨 [Matty](https://matty-graphic-design-tool.vercel.app/) — Browser-Based Graphic Design Tool
 
 > *MERN · Canvas API · Cloudinary · JWT · Tailwind CSS*
@@ -106,17 +124,6 @@ A Canva-inspired browser-based graphic design tool built entirely with vanilla C
 
 ---
 
-### 🧠 [SKillX](https://s-kill-x.vercel.app/) — Skill Development Platform
-
-> *React · Node.js · MongoDB · Express*
-
-A full-stack platform for structured skill-building with course tracking, progress visualization, and user dashboards.
-
-- 🔴 **Live:** [s-kill-x.vercel.app](https://s-kill-x.vercel.app/)
-- 📁 **Repo:** [github.com/rai0vishal/SKillX](https://github.com/rai0vishal/SKillX)
-
----
-
 ### 🏋️ [Active Arc](https://github.com/rai0vishal/Active-arc-fitness-tracker-) — Mobile Fitness Tracker
 
 > *React Native · JavaScript*
@@ -129,7 +136,7 @@ A cross-platform mobile fitness tracking app built with React Native — workout
 
 ### 💳 [Credilio](https://github.com/rai0vishal/Credilio) — Financial Platform
 
-> *Python · Node.js · Postgres*
+> *JavaScript · Node.js · MongoDB*
 
 - Full-featured financial services platform interface with user flows and API integration
 - 📁 **Repo:** [github.com/rai0vishal/Credilio](https://github.com/rai0vishal/Credilio)
