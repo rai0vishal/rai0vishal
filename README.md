@@ -20,7 +20,7 @@ I'm a MERN Stack Developer who loves building full-stack web applications with r
 
 - 🔭 Currently building: improving **TaskFlow** with CI/CD, tests, and new features
 - 🌱 Learning: System Design, TypeScript, Next.js
-- 💼 Internship: MERN Stack Developer @ **Global Next Consulting India Pvt. Ltd.** *(June–Aug 2025)*
+- 💼 Internship: MERN Stack Developer @ **Global Next Consulting India Pvt. Ltd.** 
 - 🎯 Goal: Land a Full Stack / Backend / Frontend Developer role
 - 📍 Based in Lucknow, India
 - ⚡ Fun fact: Solved **100+ DSA problems** on LeetCode and **150+** on CodeChef
