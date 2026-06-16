@@ -109,7 +109,6 @@ A production-grade, AI-powered collaborative platform where developers trade ski
 - **Gemini AI Integration** — parses user tech stack and career goals into structured JSON, rendered as an interactive step-by-step learning roadmap tree
 - **Context-aware Chat System** — every conversation carries a `GIG | EXCHANGE` context payload, ensuring strict separation between concurrent gig and skill-barter threads
 - **Smart Scheduling Engine** — timezone-aware availability matrix with UTC normalization, conflict detection to prevent double-booking, and real-time session countdown
-- **RBAC with Firebase Auth** — JWT middleware inspects token role claims; admin endpoints (`/api/admin/analytics`, user moderation) reject unauthorized access with 403
 - **Gig Marketplace** — post, browse, and collaborate on real projects with AI-enhanced gig descriptions via Gemini prompt engineering
 - **Performance** — `useMemo`/`useCallback` on WebRTC/Socket components, lazy-loaded video session routes, debounced search, paginated feeds, and compound MongoDB indexes on skill fields for sub-millisecond queries
 
