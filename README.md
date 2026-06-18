@@ -162,9 +162,9 @@ A cross-platform mobile fitness tracking app built with React Native — workout
 **MERN Stack Developer Intern** @ Global Next Consulting India Pvt. Ltd. *(Remote)*
 `June 2025 – August 2025`
 
-- Built and deployed **2 full-stack web applications** using React, Node.js, Express, and MongoDB as part of a 3-developer team
+- Built and deployed **2 full-stack web applications** using React, Node.js, Express, and MongoDB as part of a 3-developer team.
 - Optimized REST API endpoints via query indexing and middleware improvements — reduced average server response time by **30%**
-- Participated in code reviews and pair programming; improved code consistency and caught bugs before production deployment
+- Participated in code reviews and pair programming; improved code consistency and caught bugs before production deployment.
 
 ---
 
