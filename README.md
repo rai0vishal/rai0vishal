@@ -10,6 +10,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rai0vishal)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:raivishal2121@gmail.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=rai0vishal&label=Profile%20Views&color=58A6FF&style=flat-square)
+
+
 </div>
 
 ---
