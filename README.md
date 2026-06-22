@@ -89,7 +89,7 @@ A production-grade collaborative task management application with a fully decoup
 
 **Highlights:**
 - Multi-workspace architecture with complete data isolation and **RBAC** (Admin / Member)
-- Real-time **Kanban board** with drag-and-drop (dnd-kit), task assignments, and activity logs
+- Real-time **Kanban board** with drag-and-drop (dnd-kit), task assignments, and activity log
 - Live **1-to-1 chat** with presence tracking and typing indicators via Socket.IO
 - Analytics dashboard showing productivity metrics with a **90-day activity heatmap**
 - 23 RESTful API endpoints with Zod validation, Helmet security headers, and pagination
