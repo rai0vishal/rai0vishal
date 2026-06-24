@@ -10,8 +10,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rai0vishal)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:raivishal2121@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=rai0vishal&label=Profile%20Views&color=58A6FF&style=flat-square)
+[![Resume](https://img.shields.io/badge/Download_Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://raw.githubusercontent.com/rai0vishal/rai0vishal/main/Vishal_Rai.pdf)
 
+![Profile Views](https://komarev.com/ghpvc/?username=rai0vishal&label=Profile%20Views&color=58A6FF&style=flat-square)
 
 </div>
 
@@ -23,7 +24,7 @@ I'm a MERN Stack Developer who loves building full-stack web applications with r
 
 - 🔭 Currently building: improving **TaskFlow** with CI/CD, tests, and new features
 - 🌱 Learning: System Design, TypeScript, Next.js
-- 💼 Internship: MERN Stack Developer @ **Global Next Consulting India Pvt. Ltd.** 
+- 💼 Internship: MERN Stack Developer @ **Global Next Consulting India Pvt. Ltd.** *(June–Aug 2025)*
 - 🎯 Goal: Land a Full Stack / Backend / Frontend Developer role
 - 📍 Based in Lucknow, India
 - ⚡ Fun fact: Solved **100+ DSA problems** on LeetCode and **150+** on CodeChef
@@ -89,7 +90,7 @@ A production-grade collaborative task management application with a fully decoup
 
 **Highlights:**
 - Multi-workspace architecture with complete data isolation and **RBAC** (Admin / Member)
-- Real-time **Kanban board** with drag-and-drop (dnd-kit), task assignments, and activity log
+- Real-time **Kanban board** with drag-and-drop (dnd-kit), task assignments, and activity logs
 - Live **1-to-1 chat** with presence tracking and typing indicators via Socket.IO
 - Analytics dashboard showing productivity metrics with a **90-day activity heatmap**
 - 23 RESTful API endpoints with Zod validation, Helmet security headers, and pagination
@@ -112,6 +113,8 @@ A production-grade, AI-powered collaborative platform where developers trade ski
 - **Gemini AI Integration** — parses user tech stack and career goals into structured JSON, rendered as an interactive step-by-step learning roadmap tree
 - **Context-aware Chat System** — every conversation carries a `GIG | EXCHANGE` context payload, ensuring strict separation between concurrent gig and skill-barter threads
 - **Smart Scheduling Engine** — timezone-aware availability matrix with UTC normalization, conflict detection to prevent double-booking, and real-time session countdown
+- **RBAC with Firebase Auth** — JWT middleware inspects token role claims; admin endpoints (`/api/admin/analytics`, user moderation) reject unauthorized access with 403
+- **Gig Marketplace** — post, browse, and collaborate on real projects with AI-enhanced gig descriptions via Gemini prompt engineering
 - **Performance** — `useMemo`/`useCallback` on WebRTC/Socket components, lazy-loaded video session routes, debounced search, paginated feeds, and compound MongoDB indexes on skill fields for sub-millisecond queries
 
 ---
@@ -143,7 +146,7 @@ A cross-platform mobile fitness tracking app built with React Native — workout
 
 ### 💳 [Credilio](https://github.com/rai0vishal/Credilio) — Financial Platform
 
-> *Python · Node.js · Postgres*
+> *JavaScript · Node.js · MongoDB*
 
 - Full-featured financial services platform interface with user flows and API integration
 - 📁 **Repo:** [github.com/rai0vishal/Credilio](https://github.com/rai0vishal/Credilio)
@@ -164,9 +167,9 @@ A cross-platform mobile fitness tracking app built with React Native — workout
 **MERN Stack Developer Intern** @ Global Next Consulting India Pvt. Ltd. *(Remote)*
 `June 2025 – August 2025`
 
-- Built and deployed **2 full-stack web applications** using React, Node.js, Express, and MongoDB as part of a 3-developer team.
+- Built and deployed **2 full-stack web applications** using React, Node.js, Express, and MongoDB as part of a 3-developer team
 - Optimized REST API endpoints via query indexing and middleware improvements — reduced average server response time by **30%**
-- Participated in code reviews and pair programming; improved code consistency and caught bugs before production deployment.
+- Participated in code reviews and pair programming; improved code consistency and caught bugs before production deployment
 
 ---
 
