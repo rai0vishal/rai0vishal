@@ -10,7 +10,15 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rai0vishal)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:raivishal2121@gmail.com)
 
-[![Resume](https://img.shields.io/badge/Download_Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://raw.githubusercontent.com/rai0vishal/rai0vishal/main/Vishal_Rai.pdf)
+<p align="center">
+  <a href="https://vishalrai-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Explore_Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="https://raw.githubusercontent.com/rai0vishal/rai0vishal/main/Vishal_Rai.pdf">
+    <img src="https://img.shields.io/badge/Download_Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+  </a>
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rai0vishal&label=Profile%20Views&color=58A6FF&style=flat-square)
 
