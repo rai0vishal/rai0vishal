@@ -31,7 +31,7 @@
 I'm a MERN Stack Developer who loves building full-stack web applications with real-world utility — from real-time collaborative task managers to AI-powered skill exchange ecosystems. I care about clean architecture, smooth UX, and shipping things that actually work in production.
 
 - 🔭 Currently building: improving **TaskFlow** with CI/CD, tests, and new features
-- 🌱 Learning: System Design, TypeScript, Next.js
+- 🌱 Learning: System Design, TypeScript, Next.js,AI integrations with RAG implementaion and automation
 - 💼 Internship: MERN Stack Developer @ **Global Next Consulting India Pvt. Ltd.** *(June–Aug 2025)*
 - 🎯 Goal: Land a Full Stack / Backend / Frontend Developer role
 - 📍 Based in Lucknow, India
